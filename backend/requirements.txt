@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+openpyxl
+matplotlib
+plotly
+python-multipart
+python-dotenv
+httpx
+kaleido
+scipy

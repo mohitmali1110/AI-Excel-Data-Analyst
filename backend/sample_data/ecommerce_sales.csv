@@ -1,0 +1,504 @@
+Date,Product,Category,Region,Unit_Price,Quantity,Revenue,Returns
+2024-11-23,Tablet,Electronics,North,928.63,9.0,11951.47,756.39
+2024-01-16,Headphones,Electronics,South,394.29,7.0,2484.03,0.0
+2024-10-28,Boots,Footwear,North,107.62,6.0,710.29,40.48
+2024-07-02,Blender,Home & Kitchen,Central,63.7,2.0,102.88,0.0
+2024-11-17,Blender,Home & Kitchen,Central,238.73,4.0,1179.33,0.0
+2024-07-13,Boots,Footwear,West,99.23,2.0,168.69,0.0
+2024-03-28,Sneakers,Footwear,South,188.06,6.0,1015.52,0.0
+2024-01-29,Sneakers,Footwear,North,50.59,6.0,333.89,0.0
+2024-09-12,Microwave,Home & Kitchen,West,175.52,7.0,1228.64,0.0
+2024-07-23,Blender,Home & Kitchen,South,234.06,3.0,537.17,0.0
+2024-12-14,Novel - Fiction,Books,Central,48.84,1.0,60.32,0.0
+2024-02-28,Boots,Footwear,East,112.6,5.0,591.15,0.0
+2024-04-01,Tablet,Electronics,East,1033.75,9.0,9768.94,0.0
+2024-11-02,Coffee Maker,Home & Kitchen,West,254.55,1.0,330.92,0.0
+2024-10-17,Headphones,Electronics,North,918.5,8.0,8082.8,0.0
+2024-03-25,Boots,Footwear,Central,73.89,4.0,280.78,0.0
+2024-07-23,Blender,Home & Kitchen,West,47.29,9.0,361.77,0.0
+2024-04-22,Laptop,Electronics,North,893.23,9.0,8842.98,0.0
+2024-12-08,Programming Guide,Books,South,19.72,8.0,184.58,0.0
+2024-04-07,Tablet,Electronics,North,841.93,2.0,1852.25,202.33
+2024-02-25,Sneakers,Footwear,South,107.5,2.0,193.5,0.0
+2024-10-08,Tablet,Electronics,North,834.75,4.0,3672.9,0.0
+2024-09-05,Programming Guide,Books,South,25.62,8.0,184.46,0.0
+2024-12-22,Programming Guide,Books,South,12.44,6.0,87.33,7.65
+2024-09-14,Jeans,Clothing,North,28.01,4.0,123.24,0.0
+2024-10-18,Sneakers,Footwear,Central,107.08,5.0,508.63,0.0
+2024-06-09,Sneakers,Footwear,East,88.0,2.0,157.08,14.64
+2024-10-15,Tablet,Electronics,North,714.52,,3143.89,0.0
+2024-03-21,Business Strategy,Books,Central,10.31,9.0,88.15,0.0
+2024-12-05,Tablet,Electronics,South,427.69,4.0,2001.59,0.0
+2024-04-14,Boots,Footwear,Central,175.38,5.0,833.05,41.68
+2024-03-07,Boots,Footwear,South,108.43,3.0,292.76,0.0
+2024-07-08,T-Shirt,Clothing,West,50.83,6.0,259.23,0.0
+2024-05-07,Tablet,Electronics,East,969.12,4.0,4070.3,0.0
+2024-03-31,Novel - Fiction,Books,North,36.8,4.0,161.92,0.0
+2024-12-25,Tablet,Electronics,West,1065.78,5.0,6927.57,0.0
+2024-04-26,Sneakers,Footwear,North,84.58,6.0,558.23,0.0
+2024-07-23,Coffee Maker,Home & Kitchen,North,289.88,2.0,542.08,0.0
+2024-06-25,Coffee Maker,Home & Kitchen,West,185.68,7.0,1104.8,153.39
+2024-10-02,Jacket,Clothing,East,114.89,2.0,241.27,0.0
+2024-06-02,Running Shoes,Footwear,West,128.71,7.0,765.82,0.0
+2024-03-30,Running Shoes,Footwear,West,85.91,6.0,515.46,0.0
+2024-08-14,Jacket,Clothing,Central,110.12,9.0,941.53,0.0
+2024-11-13,Coffee Maker,Home & Kitchen,North,90.65,,129.63,19.13
+2024-11-08,Headphones,Electronics,West,585.16,4.0,3042.83,313.85
+2024-02-24,Novel - Fiction,Books,South,19.97,2.0,35.95,0.0
+2024-08-25,Coffee Maker,Home & Kitchen,West,254.25,3.0,762.75,0.0
+2024-08-31,Business Strategy,Books,East,29.38,4.0,123.4,0.0
+2024-02-09,Running Shoes,Footwear,South,126.42,3.0,341.33,0.0
+2024-02-02,Novel - Fiction,Books,West,25.58,10.0,255.8,0.0
+2024-01-11,Microwave,Home & Kitchen,West,260.43,7.0,1823.01,0.0
+2024-10-06,Sneakers,Footwear,West,44.64,7.0,312.48,0.0
+2024-08-27,T-Shirt,Clothing,Central,110.69,7.0,736.09,50.98
+2024-01-26,Boots,Footwear,West,94.0,7.0,658.0,0.0
+2024-02-11,Programming Guide,Books,North,12.74,1.0,14.01,0.0
+2024-05-06,Jacket,Clothing,North,43.85,8.0,385.88,0.0
+2024-07-07,Jeans,Clothing,Central,94.79,2.0,153.09,0.0
+2024-06-08,Microwave,Home & Kitchen,West,254.25,,1080.56,0.0
+2024-11-03,Tablet,Electronics,Central,971.77,6.0,7200.82,453.72
+2024-09-07,Tablet,Electronics,West,1158.83,9.0,10429.47,0.0
+2024-05-18,Programming Guide,Books,West,43.23,2.0,86.46,0.0
+2024-08-18,Sneakers,Footwear,West,93.82,8.0,750.56,0.0
+2024-05-12,Coffee Maker,Home & Kitchen,East,32.74,2.0,68.75,0.0
+2024-07-27,Programming Guide,Books,Central,41.72,2.0,67.38,0.0
+2024-07-26,Sneakers,Footwear,East,128.56,9.0,1032.66,0.0
+2024-12-25,Business Strategy,Books,East,39.72,3.0,162.65,0.0
+2024-09-04,Boots,Footwear,Central,85.28,4.0,324.06,0.0
+2024-06-03,Laptop,Electronics,Central,282.91,8.0,1827.6,3.36
+2024-05-25,Programming Guide,Books,West,29.11,2.0,58.22,0.0
+2024-02-07,Smartphone,Electronics,South,306.66,7.0,1931.96,0.0
+2024-11-12,Sneakers,Footwear,Central,87.58,10.0,1081.61,0.0
+2024-11-08,Tablet,Electronics,South,806.79,3.0,2831.83,191.36
+2024-10-31,Programming Guide,Books,East,12.85,4.0,53.97,0.0
+2024-11-16,Jacket,Clothing,West,42.48,1.0,55.22,0.0
+2024-06-06,Running Shoes,Footwear,West,151.96,8.0,1033.33,0.0
+2024-11-02,Smartphone,Electronics,West,921.26,10.0,11976.38,0.0
+2024-01-11,Boots,Footwear,Central,115.28,3.0,328.55,0.0
+2024-08-11,Programming Guide,Books,North,16.43,7.0,126.51,0.0
+2024-05-27,Microwave,Home & Kitchen,Central,61.3,9.0,524.11,0.0
+2024-01-01,Business Strategy,Books,West,27.68,1.0,,0.0
+2024-10-08,T-Shirt,Clothing,East,89.83,4.0,377.29,0.0
+2024-06-08,Laptop,Electronics,Central,578.39,3.0,1401.15,0.0
+2024-05-29,Boots,Footwear,West,79.0,10.0,790.0,0.0
+2024-03-10,Headphones,Electronics,East,961.31,1.0,1009.38,0.0
+2024-06-01,Programming Guide,Books,South,25.09,6.0,115.16,0.0
+2024-12-23,Sneakers,Footwear,Central,105.72,7.0,913.95,0.0
+2024-12-05,T-Shirt,Clothing,West,32.62,8.0,339.25,46.33
+2024-01-08,T-Shirt,Clothing,West,117.0,10.0,1170.0,0.0
+2024-11-28,Headphones,Electronics,East,1044.96,8.0,11410.96,0.0
+2024-01-19,Headphones,Electronics,South,812.72,2.0,1462.9,0.0
+2024-12-26,Tablet,Electronics,West,324.68,6.0,2532.5,0.0
+2024-03-15,Sneakers,Footwear,Central,68.81,7.0,457.59,0.0
+2024-05-03,Programming Guide,Books,Central,10.38,8.0,78.89,0.0
+2024-12-12,Jeans,Clothing,North,54.56,5.0,390.1,0.0
+2024-06-03,Jacket,Clothing,West,30.67,5.0,130.35,16.23
+2024-07-21,Boots,Footwear,North,159.15,8.0,1190.44,0.0
+2024-05-26,Sneakers,Footwear,Central,70.42,3.0,200.7,0.0
+2024-11-17,Smartphone,Electronics,East,978.04,6.0,8010.15,0.0
+2024-03-30,Jacket,Clothing,South,107.65,3.0,290.66,0.0
+2024-09-03,Running Shoes,Footwear,East,52.05,7.0,382.57,0.0
+2024-10-12,Blender,Home & Kitchen,North,152.79,5.0,840.35,0.0
+2024-11-22,Blender,Home & Kitchen,North,284.66,10.0,4070.64,0.0
+2024-02-02,Business Strategy,Books,East,49.84,2.0,104.66,13.93
+2024-03-10,Microwave,Home & Kitchen,West,175.85,3.0,527.55,0.0
+2024-12-01,Tablet,Electronics,West,796.43,8.0,8282.87,0.0
+2024-07-04,Tablet,Electronics,East,721.69,2.0,1288.22,0.0
+2024-08-20,Headphones,Electronics,South,823.79,3.0,2224.23,0.0
+2024-04-15,Headphones,Electronics,Central,367.52,10.0,3491.44,449.56
+2024-03-15,T-Shirt,Clothing,Central,37.45,4.0,142.31,0.0
+2024-01-09,Jeans,Clothing,East,94.17,6.0,593.27,0.0
+2024-02-25,Business Strategy,Books,Central,36.36,5.0,172.71,0.0
+2024-01-16,Smartphone,Electronics,West,1039.66,2.0,2079.32,0.0
+2024-03-16,Headphones,Electronics,South,438.77,9.0,3554.04,0.0
+2024-09-15,Novel - Fiction,Books,North,32.05,4.0,141.02,0.0
+2024-04-26,Novel - Fiction,Books,East,22.5,5.0,118.12,0.0
+2024-03-19,Programming Guide,Books,North,24.91,3.0,82.2,0.0
+2024-10-27,Coffee Maker,Home & Kitchen,North,144.19,1.0,158.61,0.0
+2024-11-03,Running Shoes,Footwear,East,64.76,6.0,530.38,0.0
+2024-07-07,Tablet,Electronics,East,752.81,10.0,6718.83,0.0
+2024-10-12,Laptop,Electronics,Central,1125.54,5.0,5346.31,0.0
+2024-06-28,Laptop,Electronics,South,1063.36,1.0,813.47,64.73
+2024-07-11,Novel - Fiction,Books,West,32.7,2.0,55.59,0.0
+2024-03-20,Jeans,Clothing,Central,28.16,7.0,187.26,0.0
+2024-09-19,Tablet,Electronics,East,601.41,1.0,631.48,0.0
+2024-11-02,Smartphone,Electronics,North,364.64,,1042.87,116.86
+2024-03-30,T-Shirt,Clothing,West,43.01,7.0,301.07,0.0
+2024-01-22,Novel - Fiction,Books,North,26.18,7.0,201.59,0.0
+2024-07-26,Laptop,Electronics,East,330.47,7.0,2064.61,0.0
+2024-05-04,Novel - Fiction,Books,Central,18.86,3.0,53.75,5.11
+2024-09-28,Jacket,Clothing,East,115.82,5.0,608.05,0.0
+2024-11-04,T-Shirt,Clothing,North,97.28,8.0,1112.88,0.0
+2024-10-16,Coffee Maker,Home & Kitchen,East,111.76,1.0,117.35,0.0
+2024-02-07,Running Shoes,Footwear,West,173.07,2.0,346.14,0.0
+2024-09-16,Microwave,Home & Kitchen,West,41.08,10.0,410.8,0.0
+2024-06-13,Programming Guide,Books,Central,23.74,2.0,38.34,0.0
+2024-03-29,Smartphone,Electronics,South,893.0,5.0,4018.5,0.0
+2024-06-22,Smartphone,Electronics,East,219.21,10.0,1956.45,0.0
+2024-06-19,Headphones,Electronics,Central,846.79,3.0,2051.35,0.0
+2024-02-13,Running Shoes,Footwear,Central,170.11,9.0,1454.44,146.27
+2024-09-17,Blender,Home & Kitchen,North,285.87,4.0,1257.83,0.0
+2024-03-20,Headphones,Electronics,East,1036.65,1.0,1088.48,0.0
+2024-11-12,T-Shirt,Clothing,Central,36.22,3.0,134.2,0.0
+2024-01-23,Novel - Fiction,Books,East,39.94,8.0,335.5,0.0
+2024-05-02,Running Shoes,Footwear,West,148.53,5.0,742.65,0.0
+2024-09-14,Novel - Fiction,Books,South,35.65,6.0,192.51,0.0
+2024-02-22,Tablet,Electronics,East,238.07,2.0,499.95,0.0
+2024-04-23,Business Strategy,Books,East,25.45,2.0,53.45,0.0
+2024-01-15,Coffee Maker,Home & Kitchen,North,67.15,8.0,590.92,0.0
+2024-03-12,Programming Guide,Books,West,15.98,10.0,159.8,0.0
+2024-02-26,Running Shoes,Footwear,South,107.17,2.0,192.91,0.0
+2024-09-12,Laptop,Electronics,Central,753.8,10.0,7161.1,0.0
+2024-12-06,Headphones,Electronics,Central,1173.39,9.0,13042.23,1708.53
+2024-01-23,Microwave,Home & Kitchen,East,123.1,2.0,258.51,0.0
+2024-06-19,T-Shirt,Clothing,North,53.85,8.0,402.8,0.0
+2024-03-10,Headphones,Electronics,West,188.83,5.0,944.15,0.0
+2024-10-05,Programming Guide,Books,East,11.91,6.0,75.03,0.0
+2024-07-07,Novel - Fiction,Books,West,29.85,8.0,202.98,0.0
+2024-09-22,Boots,Footwear,North,136.39,6.0,900.17,44.28
+2024-05-31,Running Shoes,Footwear,West,150.36,6.0,902.16,0.0
+2024-08-10,Boots,Footwear,North,98.13,1.0,107.94,9.84
+2024-08-12,Smartphone,Electronics,South,220.6,10.0,1985.4,0.0
+2024-08-18,Blender,Home & Kitchen,East,129.08,5.0,677.67,0.0
+2024-02-28,Laptop,Electronics,South,674.0,8.0,4852.8,0.0
+2024-11-09,Running Shoes,Footwear,West,51.85,2.0,134.81,0.0
+2024-06-12,Blender,Home & Kitchen,North,72.53,3.0,203.45,0.0
+2024-09-17,Sneakers,Footwear,North,77.88,10.0,856.68,0.0
+2024-10-09,T-Shirt,Clothing,Central,26.57,7.0,176.69,0.0
+2024-10-21,Headphones,Electronics,South,1171.0,9.0,9485.1,0.0
+2024-04-03,T-Shirt,Clothing,West,106.82,3.0,320.46,0.0
+2024-12-29,Sneakers,Footwear,East,85.45,9.0,1049.75,0.0
+2024-11-16,Running Shoes,Footwear,Central,66.98,10.0,827.2,0.0
+2024-11-05,Coffee Maker,Home & Kitchen,Central,286.11,5.0,1766.73,0.0
+2024-10-19,Novel - Fiction,Books,Central,48.27,8.0,366.85,0.0
+2024-12-16,Microwave,Home & Kitchen,East,142.22,6.0,1164.78,0.0
+2024-06-09,Coffee Maker,Home & Kitchen,East,181.65,8.0,1296.98,87.47
+2024-03-13,Tablet,Electronics,North,454.72,3.0,1500.58,0.0
+2024-10-22,Coffee Maker,Home & Kitchen,South,164.67,1.0,148.2,8.74
+2024-08-22,Sneakers,Footwear,South,85.02,8.0,612.14,0.0
+2024-01-05,Tablet,Electronics,West,290.63,1.0,290.63,0.0
+2024-04-09,Blender,Home & Kitchen,Central,178.46,10.0,1695.37,0.0
+2024-03-01,T-Shirt,Clothing,North,99.49,4.0,437.76,0.0
+2024-07-24,Smartphone,Electronics,North,190.86,9.0,1606.09,224.38
+2024-06-12,Jeans,Clothing,West,93.93,9.0,718.56,0.0
+2024-10-15,Running Shoes,Footwear,West,147.81,1.0,147.81,0.0
+2024-05-15,Sneakers,Footwear,North,140.64,3.0,464.11,0.0
+2024-05-04,Smartphone,Electronics,Central,1145.62,4.0,4353.36,0.0
+2024-11-09,Programming Guide,Books,North,29.13,7.0,291.59,0.0
+2024-03-29,Business Strategy,Books,Central,35.73,5.0,169.72,0.0
+2024-04-08,Sneakers,Footwear,East,195.67,4.0,821.81,0.0
+2024-09-07,Coffee Maker,Home & Kitchen,West,103.83,9.0,934.47,0.0
+2024-07-21,Blender,Home & Kitchen,South,123.52,5.0,472.46,0.0
+2024-04-19,Jacket,Clothing,Central,76.2,4.0,,0.0
+2024-12-08,Sneakers,Footwear,South,154.78,1.0,181.09,0.0
+2024-03-21,Novel - Fiction,Books,West,35.84,2.0,71.68,0.0
+2024-04-28,Smartphone,Electronics,South,588.78,8.0,4239.22,0.0
+2024-05-28,Smartphone,Electronics,North,463.31,9.0,4586.77,0.0
+2024-03-09,Business Strategy,Books,East,20.29,3.0,63.91,3.23
+2024-05-31,Jacket,Clothing,South,83.87,7.0,528.38,0.0
+2024-04-04,T-Shirt,Clothing,West,44.8,6.0,268.8,0.0
+2024-10-20,Laptop,Electronics,East,836.37,7.0,6147.32,0.0
+2024-12-26,Running Shoes,Footwear,North,98.81,8.0,1130.39,0.0
+2024-11-06,Blender,Home & Kitchen,West,246.54,4.0,1282.01,0.0
+2024-11-01,Headphones,Electronics,Central,619.09,9.0,6881.19,0.0
+2024-04-13,T-Shirt,Clothing,South,72.03,2.0,129.65,0.0
+2024-08-16,Smartphone,Electronics,West,288.54,5.0,1442.7,0.0
+2024-07-21,Boots,Footwear,North,47.25,1.0,44.18,0.0
+2024-02-05,Programming Guide,Books,North,39.17,7.0,301.61,0.0
+2024-07-14,Business Strategy,Books,West,36.14,6.0,184.31,27.45
+2024-07-20,T-Shirt,Clothing,South,95.62,7.0,512.05,0.0
+2024-04-27,Sneakers,Footwear,West,189.99,7.0,1329.93,0.0
+2024-01-09,Sneakers,Footwear,South,111.43,4.0,401.15,0.0
+2024-07-24,Business Strategy,Books,South,49.74,4.0,152.2,0.0
+2024-10-21,Coffee Maker,Home & Kitchen,Central,111.48,9.0,953.15,0.0
+2024-06-02,Boots,Footwear,North,157.63,9.0,1326.46,0.0
+2024-06-25,Microwave,Home & Kitchen,Central,131.64,8.0,850.39,0.0
+2024-04-25,Running Shoes,Footwear,South,129.98,3.0,350.95,0.0
+2024-05-10,Jacket,Clothing,East,112.22,4.0,471.32,26.67
+2024-11-05,Smartphone,Electronics,North,347.57,6.0,2982.15,0.0
+2024-01-08,Jacket,Clothing,South,31.73,10.0,285.57,0.0
+2024-07-22,Sneakers,Footwear,Central,114.6,6.0,555.24,0.0
+2024-09-11,Business Strategy,Books,North,18.13,6.0,119.66,0.0
+2024-10-15,Sneakers,Footwear,South,133.45,4.0,480.42,0.0
+2024-07-13,Sneakers,Footwear,West,94.01,8.0,639.27,0.0
+2024-06-29,Jeans,Clothing,South,68.83,1.0,52.65,0.0
+2024-02-08,Smartphone,Electronics,North,583.01,9.0,5771.8,0.0
+2024-01-31,Programming Guide,Books,West,38.89,9.0,350.01,0.0
+2024-01-09,Novel - Fiction,Books,South,31.06,6.0,167.72,0.0
+2024-07-22,Headphones,Electronics,East,1157.26,2.0,2065.71,0.0
+2024-11-28,Smartphone,Electronics,North,575.54,2.0,1646.04,0.0
+2024-08-10,Coffee Maker,Home & Kitchen,Central,278.17,10.0,2642.62,0.0
+2024-01-24,Headphones,Electronics,East,1094.28,4.0,4595.98,0.0
+2024-12-30,Microwave,Home & Kitchen,North,259.35,9.0,3337.83,0.0
+2024-03-12,Headphones,Electronics,Central,932.73,10.0,8860.93,0.0
+2024-10-31,Microwave,Home & Kitchen,East,162.46,7.0,1194.08,0.0
+2024-12-14,Microwave,Home & Kitchen,North,49.85,7.0,499.0,0.0
+2024-11-20,T-Shirt,Clothing,West,30.66,5.0,199.29,2.61
+2024-08-08,Business Strategy,Books,Central,13.72,10.0,130.34,0.0
+2024-07-16,Laptop,Electronics,East,584.5,4.0,2086.66,0.0
+2024-03-27,Microwave,Home & Kitchen,South,47.08,7.0,296.6,0.0
+2024-02-09,Blender,Home & Kitchen,East,196.5,3.0,618.98,0.0
+2024-07-21,Coffee Maker,Home & Kitchen,Central,146.27,10.0,1181.13,56.81
+2024-12-21,Jacket,Clothing,West,116.46,8.0,1211.18,0.0
+2024-05-04,Coffee Maker,Home & Kitchen,West,281.66,9.0,2534.94,0.0
+2024-10-08,Laptop,Electronics,West,1140.12,7.0,7980.84,0.0
+2024-03-12,Running Shoes,Footwear,South,107.7,10.0,969.3,0.0
+2024-07-24,Novel - Fiction,Books,Central,33.75,2.0,54.51,2.03
+2024-12-06,Blender,Home & Kitchen,South,212.92,6.0,1494.7,0.0
+2024-08-08,Tablet,Electronics,North,253.54,4.0,1115.58,0.0
+2024-07-19,Business Strategy,Books,Central,21.82,2.0,35.24,4.97
+2024-03-13,Blender,Home & Kitchen,East,124.04,8.0,1041.94,0.0
+2024-06-02,Smartphone,Electronics,North,173.71,4.0,649.68,0.0
+2024-10-09,Jeans,Clothing,East,115.85,7.0,851.5,0.0
+2024-11-10,Jacket,Clothing,West,58.88,2.0,153.09,0.0
+2024-10-01,Jeans,Clothing,East,65.76,6.0,414.29,0.0
+2024-11-08,Microwave,Home & Kitchen,Central,76.58,5.0,472.88,0.0
+2024-10-29,Headphones,Electronics,South,478.85,7.0,3016.76,0.0
+2024-03-11,Microwave,Home & Kitchen,West,204.22,9.0,1837.98,0.0
+2024-05-27,T-Shirt,Clothing,South,65.1,3.0,175.77,0.0
+2024-07-15,Programming Guide,Books,West,13.31,1.0,11.31,0.0
+2024-04-22,Running Shoes,Footwear,North,66.91,8.0,588.81,0.0
+2024-02-27,Tablet,Electronics,East,963.87,8.0,8096.51,0.0
+2024-08-05,Tablet,Electronics,South,462.59,8.0,3330.65,0.0
+2024-03-01,Sneakers,Footwear,South,96.1,3.0,259.47,0.0
+2024-04-15,Jacket,Clothing,North,73.23,5.0,402.77,0.0
+2024-05-16,Tablet,Electronics,South,1160.91,3.0,3134.46,0.0
+2024-03-08,Sneakers,Footwear,South,161.84,10.0,1456.56,0.0
+2024-11-17,Novel - Fiction,Books,West,30.62,5.0,199.03,0.0
+2024-07-07,Business Strategy,Books,West,39.24,8.0,266.83,0.0
+2024-12-23,Blender,Home & Kitchen,North,252.71,6.0,2168.25,0.0
+2024-06-21,T-Shirt,Clothing,Central,98.83,8.0,638.44,89.01
+2024-03-21,Business Strategy,Books,West,15.28,5.0,76.4,0.0
+2024-05-20,Headphones,Electronics,East,412.91,5.0,2167.78,0.0
+2024-04-29,Novel - Fiction,Books,North,19.05,8.0,167.64,17.49
+2024-03-02,Novel - Fiction,Books,South,14.13,6.0,76.3,0.0
+2024-03-11,Microwave,Home & Kitchen,South,182.09,3.0,491.64,0.0
+2024-04-19,T-Shirt,Clothing,West,64.24,2.0,128.48,0.0
+2024-07-15,Blender,Home & Kitchen,West,52.75,10.0,448.38,0.0
+2024-05-25,Laptop,Electronics,East,365.72,4.0,1536.02,0.0
+2024-02-27,Sneakers,Footwear,West,182.2,6.0,1093.2,141.16
+2024-10-18,Novel - Fiction,Books,East,12.92,10.0,135.66,5.34
+2024-01-21,Smartphone,Electronics,West,681.94,2.0,1363.88,0.0
+2024-10-02,T-Shirt,Clothing,East,27.9,6.0,175.77,0.0
+2024-11-20,Headphones,Electronics,East,883.61,7.0,8442.89,775.43
+2024-01-29,Running Shoes,Footwear,South,152.24,9.0,1233.14,0.0
+2024-05-12,Jeans,Clothing,East,98.11,1.0,103.02,0.0
+2024-08-07,Boots,Footwear,Central,132.26,6.0,753.88,97.18
+2024-03-26,Blender,Home & Kitchen,South,225.15,9.0,1823.72,234.9
+2024-01-07,Sneakers,Footwear,North,64.01,9.0,633.7,0.0
+2024-12-01,Novel - Fiction,Books,South,13.12,6.0,92.1,9.3
+2024-01-27,Jeans,Clothing,South,118.14,5.0,531.63,0.0
+2024-06-08,Coffee Maker,Home & Kitchen,North,182.23,10.0,1703.85,0.0
+2024-07-07,Programming Guide,Books,South,47.3,1.0,36.18,0.0
+2024-06-26,Laptop,Electronics,East,151.54,9.0,1217.25,0.0
+2024-08-02,Programming Guide,Books,North,19.26,9.0,190.67,0.0
+2024-07-09,Business Strategy,Books,North,33.68,1.0,31.49,0.0
+2024-03-07,Sneakers,Footwear,East,168.13,6.0,1059.22,0.0
+2024-04-29,Headphones,Electronics,South,292.92,6.0,1581.77,0.0
+2024-10-01,Blender,Home & Kitchen,South,54.41,5.0,244.84,0.0
+2024-12-22,Smartphone,Electronics,South,1027.72,9.0,10821.89,485.1
+2024-03-30,Laptop,Electronics,West,1047.33,3.0,3141.99,29.06
+2024-04-23,T-Shirt,Clothing,South,57.22,5.0,257.49,0.0
+2024-02-08,Laptop,Electronics,North,357.64,6.0,2360.42,333.63
+2024-01-26,Jeans,Clothing,Central,92.44,6.0,526.91,0.0
+2024-04-05,Boots,Footwear,East,138.26,8.0,1161.38,0.0
+2024-10-08,Programming Guide,Books,North,41.89,4.0,184.32,0.0
+2024-10-05,Laptop,Electronics,West,971.01,9.0,8739.09,0.0
+2024-05-18,Jeans,Clothing,North,41.9,8.0,368.72,0.0
+2024-10-26,Sneakers,Footwear,South,82.64,1.0,74.38,0.0
+2024-04-22,Microwave,Home & Kitchen,East,93.87,6.0,591.38,0.0
+2024-01-15,Blender,Home & Kitchen,Central,296.76,8.0,2255.38,0.0
+2024-03-30,Programming Guide,Books,North,10.03,10.0,110.33,0.0
+2024-03-07,Coffee Maker,Home & Kitchen,South,35.92,3.0,96.98,0.0
+2024-09-26,Blender,Home & Kitchen,North,57.28,3.0,189.02,0.0
+2024-08-11,Programming Guide,Books,East,41.48,4.0,174.22,0.0
+2024-03-30,Microwave,Home & Kitchen,East,30.49,10.0,320.14,0.0
+2024-10-17,Smartphone,Electronics,South,782.51,8.0,5634.07,629.9
+2024-05-01,Blender,Home & Kitchen,East,221.42,6.0,1394.95,0.0
+2024-05-15,Jacket,Clothing,South,55.05,8.0,396.36,0.0
+2024-03-26,Novel - Fiction,Books,West,41.55,10.0,415.5,0.0
+2024-12-17,Sneakers,Footwear,South,45.35,2.0,106.12,2.71
+2024-07-11,Jeans,Clothing,North,109.81,8.0,821.38,0.0
+2024-08-08,Jeans,Clothing,Central,35.71,9.0,305.32,0.0
+2024-10-03,Boots,Footwear,East,102.86,1.0,108.0,0.0
+2024-08-06,Headphones,Electronics,East,1015.09,5.0,5329.22,0.0
+2024-08-30,Tablet,Electronics,East,974.12,7.0,7159.78,0.0
+2024-07-14,Blender,Home & Kitchen,South,91.09,1.0,69.68,0.0
+2024-12-22,Tablet,Electronics,North,851.55,1.0,1217.72,0.0
+2024-09-24,Novel - Fiction,Books,Central,21.95,7.0,145.97,0.0
+2024-01-18,T-Shirt,Clothing,North,64.9,4.0,285.56,18.13
+2024-12-15,Novel - Fiction,Books,South,46.43,2.0,108.65,9.07
+2024-10-09,Coffee Maker,Home & Kitchen,East,219.11,7.0,1610.46,36.15
+2024-10-17,Tablet,Electronics,North,740.82,7.0,5704.31,0.0
+2024-12-01,Programming Guide,Books,Central,34.35,7.0,296.96,39.63
+2024-06-18,Sneakers,Footwear,North,183.53,5.0,858.0,0.0
+2024-09-08,Tablet,Electronics,South,291.1,7.0,1833.93,0.0
+2024-02-15,Jacket,Clothing,West,102.4,1.0,102.4,0.0
+2024-03-22,Headphones,Electronics,East,895.05,3.0,2819.41,0.0
+2024-04-12,Smartphone,Electronics,South,184.72,8.0,1329.98,0.0
+2024-11-21,Tablet,Electronics,North,404.03,9.0,5199.87,0.0
+2024-03-24,Boots,Footwear,North,66.07,4.0,290.71,0.0
+2024-12-12,Jacket,Clothing,East,71.33,8.0,778.92,0.0
+2024-11-27,Jeans,Clothing,Central,42.38,5.0,261.7,0.0
+2024-07-11,Blender,Home & Kitchen,West,252.56,2.0,429.35,64.37
+2024-07-10,Running Shoes,Footwear,East,93.81,5.0,418.63,0.0
+2024-12-30,Running Shoes,Footwear,South,183.95,10.0,2152.22,0.0
+2024-06-12,T-Shirt,Clothing,North,119.75,1.0,111.97,0.0
+2024-10-19,Jacket,Clothing,East,42.24,6.0,266.11,0.0
+2024-03-28,Jeans,Clothing,East,32.79,3.0,103.29,0.0
+2024-06-20,Headphones,Electronics,South,523.05,5.0,2000.67,0.0
+2024-08-25,Tablet,Electronics,West,206.36,4.0,825.44,0.0
+2024-12-14,Microwave,Home & Kitchen,Central,67.09,7.0,579.99,0.0
+2024-08-22,T-Shirt,Clothing,East,38.04,6.0,239.65,0.0
+2024-01-03,Business Strategy,Books,East,41.41,2.0,86.96,5.66
+2024-08-07,Microwave,Home & Kitchen,West,83.84,1.0,83.84,0.0
+2024-09-28,Jacket,Clothing,North,82.67,3.0,272.81,20.6
+2024-06-05,Jeans,Clothing,North,49.82,6.0,279.49,0.0
+2024-12-17,T-Shirt,Clothing,East,69.02,7.0,659.49,22.19
+2024-03-08,Jacket,Clothing,North,36.9,5.0,202.95,0.0
+2024-11-15,Smartphone,Electronics,Central,1194.41,7.0,10325.67,0.0
+2024-03-04,Boots,Footwear,West,149.72,2.0,299.44,0.0
+2024-05-18,T-Shirt,Clothing,West,30.49,2.0,60.98,0.0
+2024-11-07,Jacket,Clothing,East,117.31,9.0,1441.15,0.0
+2024-04-16,Programming Guide,Books,East,32.97,8.0,276.95,3.74
+2024-09-18,Headphones,Electronics,North,1100.02,1.0,1210.02,31.71
+2024-01-21,Running Shoes,Footwear,East,158.17,1.0,166.08,3.45
+2024-11-27,Jeans,Clothing,East,63.77,6.0,522.28,0.0
+2024-07-24,Microwave,Home & Kitchen,West,245.97,3.0,627.22,65.5
+2024-01-31,Jeans,Clothing,North,79.08,7.0,608.92,0.0
+2024-11-09,Laptop,Electronics,South,657.23,6.0,4613.75,600.94
+2024-09-25,Sneakers,Footwear,East,138.92,8.0,1166.93,0.0
+2024-12-12,Microwave,Home & Kitchen,South,44.73,3.0,157.0,0.0
+2024-08-28,Programming Guide,Books,South,12.01,4.0,43.24,0.0
+2024-07-12,Microwave,Home & Kitchen,South,53.77,6.0,,18.41
+2024-11-30,Laptop,Electronics,North,573.61,10.0,8202.62,0.0
+2024-09-17,Jacket,Clothing,West,56.33,9.0,506.97,0.0
+2024-11-03,Programming Guide,Books,East,23.65,5.0,161.41,0.0
+2024-07-10,Tablet,Electronics,North,1091.72,5.0,5103.79,0.0
+2024-04-06,Tablet,Electronics,West,376.37,1.0,376.37,0.0
+2024-12-10,Tablet,Electronics,West,630.26,,819.34,0.0
+2024-08-09,Programming Guide,Books,Central,42.61,2.0,80.96,0.0
+2024-11-03,Coffee Maker,Home & Kitchen,Central,216.98,7.0,1875.79,0.0
+2024-05-30,Business Strategy,Books,South,43.72,9.0,354.13,0.0
+2024-12-30,Jacket,Clothing,South,91.44,3.0,320.95,0.0
+2024-12-21,Coffee Maker,Home & Kitchen,North,284.52,9.0,3661.77,0.0
+2024-08-04,Laptop,Electronics,Central,261.79,3.0,746.1,0.0
+2024-12-15,Boots,Footwear,South,87.22,8.0,816.38,106.3
+2024-10-14,Sneakers,Footwear,Central,167.49,1.0,159.12,0.0
+2024-07-17,Novel - Fiction,Books,East,44.75,8.0,,0.0
+2024-11-20,Blender,Home & Kitchen,Central,290.36,3.0,1075.78,0.0
+2024-02-08,Jeans,Clothing,South,31.94,3.0,86.24,0.0
+2024-05-10,Laptop,Electronics,East,639.65,10.0,6716.33,0.0
+2024-06-03,Programming Guide,Books,Central,48.28,9.0,350.87,26.59
+2024-07-31,Microwave,Home & Kitchen,North,119.39,10.0,1116.3,0.0
+2024-10-14,Laptop,Electronics,North,852.39,1.0,937.63,0.0
+2024-06-13,Microwave,Home & Kitchen,North,276.06,6.0,1548.7,0.0
+2024-09-17,Business Strategy,Books,West,47.93,3.0,143.79,0.0
+2024-10-02,Laptop,Electronics,North,371.32,4.0,1633.81,0.0
+2024-12-25,Novel - Fiction,Books,North,13.5,1.0,19.31,0.0
+2024-05-08,Headphones,Electronics,Central,1012.7,6.0,5772.39,582.98
+2024-09-30,Laptop,Electronics,Central,216.4,9.0,1850.22,218.39
+2024-06-03,Headphones,Electronics,East,953.54,9.0,7659.31,0.0
+2024-07-19,Running Shoes,Footwear,South,194.46,1.0,148.76,0.0
+2024-10-11,T-Shirt,Clothing,North,77.27,4.0,339.99,0.0
+2024-06-25,Jacket,Clothing,West,105.15,5.0,446.89,0.0
+2024-04-02,Smartphone,Electronics,Central,634.33,10.0,6026.14,0.0
+2024-06-18,Blender,Home & Kitchen,South,48.85,8.0,298.96,0.0
+2024-11-11,Running Shoes,Footwear,Central,169.23,6.0,1253.99,0.0
+2024-04-23,Novel - Fiction,Books,East,28.51,6.0,179.61,0.0
+2024-09-06,Tablet,Electronics,South,827.83,4.0,2980.19,0.0
+2024-11-16,Headphones,Electronics,North,1086.71,10.0,15539.95,0.0
+2024-01-19,Boots,Footwear,Central,144.63,10.0,1373.98,0.0
+2024-05-28,T-Shirt,Clothing,West,29.06,10.0,290.6,0.0
+2024-09-20,T-Shirt,Clothing,West,76.64,8.0,613.12,0.0
+2024-01-21,Sneakers,Footwear,West,77.44,6.0,464.64,0.0
+2024-08-20,Smartphone,Electronics,North,1179.62,5.0,6487.91,0.0
+2024-10-18,Jeans,Clothing,West,56.53,7.0,395.71,0.0
+2024-04-24,Microwave,Home & Kitchen,East,269.54,3.0,849.05,0.0
+2024-04-27,Headphones,Electronics,Central,825.65,2.0,1568.73,0.0
+2024-07-31,Coffee Maker,Home & Kitchen,North,73.54,1.0,68.76,0.0
+2024-03-06,Jeans,Clothing,South,23.92,3.0,64.58,0.0
+2024-07-26,Laptop,Electronics,East,1144.62,4.0,4086.29,0.0
+2024-11-03,T-Shirt,Clothing,Central,38.19,6.0,282.99,0.0
+2024-11-01,Headphones,Electronics,South,547.12,7.0,4480.91,0.0
+2024-11-06,Tablet,Electronics,South,649.66,2.0,1520.2,150.36
+2024-11-04,Laptop,Electronics,West,698.15,8.0,7260.76,0.0
+2024-07-14,Blender,Home & Kitchen,Central,185.55,5.0,749.16,0.0
+2024-04-29,Headphones,Electronics,East,778.21,1.0,817.12,0.0
+2024-03-01,Laptop,Electronics,West,837.27,10.0,8372.7,0.0
+2024-10-01,Novel - Fiction,Books,Central,26.53,9.0,226.83,0.0
+2024-07-08,Programming Guide,Books,East,15.52,2.0,27.7,0.0
+2024-08-16,Jeans,Clothing,North,60.06,1.0,66.07,0.0
+2024-11-21,Laptop,Electronics,North,1014.42,6.0,8703.72,49.29
+2024-07-15,Microwave,Home & Kitchen,Central,45.52,3.0,110.27,0.0
+2024-08-12,Laptop,Electronics,South,1043.1,9.0,8449.11,0.0
+2024-04-28,Jeans,Clothing,North,85.5,7.0,658.35,0.0
+2024-07-21,Microwave,Home & Kitchen,Central,278.18,9.0,2021.67,0.0
+2024-06-27,Blender,Home & Kitchen,East,139.07,3.0,,0.0
+2024-02-24,Headphones,Electronics,Central,458.96,10.0,4360.12,0.0
+2024-08-14,Microwave,Home & Kitchen,Central,239.41,10.0,2274.39,0.0
+2024-09-03,Tablet,Electronics,East,220.93,6.0,1391.86,0.0
+2024-06-29,Laptop,Electronics,East,410.67,3.0,1099.57,0.0
+2024-06-30,Jacket,Clothing,Central,114.71,4.0,370.51,0.0
+2024-05-03,Boots,Footwear,South,173.81,2.0,312.86,0.0
+2024-12-12,Programming Guide,Books,Central,24.85,6.0,184.14,0.0
+2024-10-21,Boots,Footwear,West,121.78,3.0,365.34,43.8
+2024-09-01,Smartphone,Electronics,Central,514.65,9.0,4400.26,0.0
+2024-12-18,Laptop,Electronics,North,857.81,3.0,3680.0,0.0
+2024-05-01,Boots,Footwear,West,69.43,6.0,416.58,0.0
+2024-07-24,Boots,Footwear,West,132.14,5.0,561.59,0.0
+2024-10-11,Novel - Fiction,Books,West,10.39,7.0,72.73,0.0
+2024-11-18,Coffee Maker,Home & Kitchen,West,137.57,1.0,178.84,0.0
+2024-05-10,Programming Guide,Books,North,47.27,5.0,259.99,0.0
+2024-07-29,Tablet,Electronics,East,1060.74,3.0,2840.13,0.0
+2024-05-25,Blender,Home & Kitchen,East,270.2,5.0,1418.55,0.0
+2024-03-15,Jeans,Clothing,East,81.23,6.0,511.75,0.0
+2024-06-11,Running Shoes,Footwear,East,182.03,10.0,1624.62,0.0
+2024-08-18,Novel - Fiction,Books,South,47.62,2.0,85.72,0.0
+2024-07-22,Tablet,Electronics,North,216.98,2.0,405.75,37.62
+2024-02-13,Microwave,Home & Kitchen,East,64.13,3.0,202.01,20.11
+2024-06-15,Programming Guide,Books,West,48.78,9.0,373.17,0.0
+2024-11-01,Business Strategy,Books,Central,29.27,4.0,144.59,0.0
+2024-08-14,Running Shoes,Footwear,East,41.69,3.0,131.32,0.0
+2024-08-28,Laptop,Electronics,West,1144.31,4.0,4577.24,0.0
+2024-10-07,Blender,Home & Kitchen,South,74.08,7.0,466.7,0.0
+2024-04-22,Boots,Footwear,North,162.33,5.0,892.82,0.0
+2024-09-29,Boots,Footwear,West,61.86,8.0,494.88,0.0
+2024-11-14,Programming Guide,Books,South,48.89,5.0,286.01,0.0
+2024-08-12,Laptop,Electronics,South,244.71,8.0,1761.91,0.0
+2024-08-25,Smartphone,Electronics,East,234.23,9.0,2213.47,0.0
+2024-04-08,Boots,Footwear,West,162.9,8.0,1303.2,0.0
+2024-01-18,Jacket,Clothing,West,29.4,5.0,147.0,0.0
+2024-03-22,Smartphone,Electronics,Central,696.97,4.0,2648.49,0.0
+2024-04-30,Novel - Fiction,Books,East,19.72,1.0,20.71,0.0
+2024-12-19,Programming Guide,Books,Central,37.44,6.0,277.43,0.0
+2024-11-16,Smartphone,Electronics,North,523.29,6.0,4489.83,0.0
+2024-11-26,Blender,Home & Kitchen,West,225.59,1.0,293.27,0.0
+2024-08-12,Running Shoes,Footwear,Central,69.86,5.0,331.83,0.0
+2024-11-02,Jeans,Clothing,North,64.94,9.0,835.78,0.0
+2024-04-04,Laptop,Electronics,Central,1049.67,9.0,8974.68,0.0
+2024-04-07,Programming Guide,Books,Central,13.85,2.0,26.31,3.7
+2024-04-01,Smartphone,Electronics,South,262.41,8.0,1889.35,0.0
+2024-12-25,Boots,Footwear,North,51.34,8.0,587.33,0.0
+2024-02-10,Business Strategy,Books,North,41.77,1.0,45.95,0.0
+2024-05-16,Smartphone,Electronics,North,1026.18,4.0,4515.19,0.0
+2024-04-07,Jacket,Clothing,Central,77.0,2.0,146.3,0.0
+2024-10-22,Blender,Home & Kitchen,West,243.96,9.0,2195.64,0.0
+2024-03-21,Business Strategy,Books,East,26.49,7.0,194.7,0.0
+2024-06-14,Sneakers,Footwear,Central,128.04,8.0,827.14,0.0
+2024-07-22,Laptop,Electronics,North,1182.1,5.0,5526.32,0.0
+2024-04-19,Coffee Maker,Home & Kitchen,North,278.16,10.0,3059.76,0.0
+2024-03-20,Tablet,Electronics,North,633.39,5.0,3483.64,0.0
+2024-02-17,Microwave,Home & Kitchen,Central,244.08,10.0,2318.76,0.0
+2024-02-18,Running Shoes,Footwear,North,52.56,6.0,346.9,0.0
+2024-08-10,Novel - Fiction,Books,North,10.46,7.0,80.54,6.34
+2024-06-12,T-Shirt,Clothing,East,42.08,8.0,300.45,0.0
+2024-10-21,Headphones,Electronics,South,603.53,1.0,543.18,0.0
+2024-05-14,Headphones,Electronics,West,676.91,8.0,5415.28,0.0
+2024-10-19,Jacket,Clothing,Central,93.57,6.0,533.35,0.0
+2024-10-21,Headphones,Electronics,North,855.33,1.0,940.86,0.0
+2024-03-27,Blender,Home & Kitchen,Central,148.93,4.0,565.93,0.0
+2024-11-23,Tablet,Electronics,North,928.63,9.0,11951.47,756.39
+2024-01-16,Headphones,Electronics,South,394.29,7.0,2484.03,0.0
+2024-10-28,Boots,Footwear,North,107.62,6.0,710.29,40.48
